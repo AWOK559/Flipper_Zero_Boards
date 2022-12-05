@@ -10,6 +10,13 @@ Tryint to keep up with demand so bare with me.
 - ESP32 complete build ready to use with sd slot and case
 - NRF24 complete build with ML01DP5 and case
 
+## To update your ESP32 with the latest version of Marauder 
+
+- OSX/Linux/Windows follow the instructions from [SkeletonMan03's](https://github.com/SkeletonMan03/FZEasyMarauderFlash) EasyMarauderFlash Python Flasher. 
+
+## Photos of the boards
+
+
 ![ESP32_DIY_1](https://user-images.githubusercontent.com/115850341/205543220-248879f3-5a0f-49b7-8758-593f5498a913.jpg)
 ![ESP32_DIY_2](https://user-images.githubusercontent.com/115850341/205543224-c4941998-2b5a-49e9-aae2-666324610d54.jpg)
 ![NRF24_DIY_1](https://user-images.githubusercontent.com/115850341/205543235-3959b3c8-f1d9-4fb0-9acf-6bb48cc196cf.JPG)
