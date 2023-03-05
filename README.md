@@ -1,6 +1,6 @@
 # Flipper Zero Boards
 
-## I have my boards for sale online at [AWOKMUSIC.COM](https://awokmusic.square.site)
+## I have my boards for sale online at [AWOK Dynamics](http://awokdynamics.com)
 
 Trying to keep up with demand so please bare with me if they are out of stock. I usually do a restock once a month depending on my schedule.
 
